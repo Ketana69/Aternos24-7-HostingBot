@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "ButtTickler90000.aternos.me:50454",
+    "port": 50454,
     "version": "",
     "try-creative": false
   },
